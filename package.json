@@ -1,0 +1,35 @@
+{
+  "name": "@kamdz/odds",
+  "version": "1.0.0",
+  "description": "Odds converter tool",
+  "license": "MIT",
+  "repository": "kamdz/odds",
+  "author": {
+    "name": "Kamil Dzwonkowski",
+    "email": "github@kamdz.dev",
+    "url": "https://kamdz.pl"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "odds",
+    "betting",
+    "converter"
+  ],
+  "dependencies": {
+    "fraction.js": "^4.0.12"
+  },
+  "devDependencies": {
+    "ava": "^2.4.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
