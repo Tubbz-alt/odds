@@ -12,8 +12,6 @@ $ npm install @kamdz/odds
 
 ```js
 const Odds = require("@kamdz/odds");
-// or
-import Odds from "@kamdz/odds";
 
 new Odds(1.5);
 //=> { american: '-200', decimal: '1.50', fractional: '1/2' }
