@@ -1,6 +1,6 @@
 # Odds
 
-> Odds converter tool.
+> Odds convertion tool.
 
 ## Install
 
