@@ -87,6 +87,3 @@ class Odds {
 }
 
 module.exports = Odds;
-
-console.log(new Odds(2.25).chance);
-console.log(new Odds(2.25).probability);
